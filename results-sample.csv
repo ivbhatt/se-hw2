@@ -1,2 +1,6 @@
 "gh_id"," paper_doi"," reuse_type"," comment"," citation_number"," reused_doi"," alt_url"," page_num"
-"ivbhatt",,,,,,,
+"ivbhatt","10.1109/SANER48275.2020.9054861","tool","ChangeMacroRecorder",19,,,2
+"ivbhatt","10.1109/SANER48275.2020.9054861","tool","Fluorite",20,,,2
+"ivbhatt","10.1109/SANER48275.2020.9054861","method","history refactoring",21,,,3
+"ivbhatt","10.1109/SANER48275.2020.9054861","metric","They defined several metrics",13,,,4
+"ivbhatt","10.1109/SANER48275.2020.9054861","sanity check","we believe .. based on [13]",13,,,4
