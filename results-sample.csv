@@ -1,6 +1,16 @@
-"gh_id"," paper_doi"," reuse_type"," comment"," citation_number"," reused_doi"," alt_url"," page_num"
-"ivbhatt","10.1109/SANER48275.2020.9054861","tool","ChangeMacroRecorder",19,,,2
-"ivbhatt","10.1109/SANER48275.2020.9054861","tool","Fluorite",20,,,2
-"ivbhatt","10.1109/SANER48275.2020.9054861","method","history refactoring",21,,,3
-"ivbhatt","10.1109/SANER48275.2020.9054861","metric","They defined several metrics",13,,,4
-"ivbhatt","10.1109/SANER48275.2020.9054861","sanity check","we believe .. based on [13]",13,,,4
+gh_id, paper_doi, reuse_type, comment, citation_number, reused_doi, alt_url, page_num
+ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054861,tool,ChangeMacroRecorder,19,http://doi.org/10.1109/saner48275.2020.9054861,,2
+ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054861,tool,Fluorite,20,,https://research.yyoon.net/papers/plateau11-yyoon-Fluorite.pdf,2
+ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054861,method,history refactoring,21,10.1109/ICSM.2012.6405336,,3
+ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054861,metric,They defined several metrics,13,,https://arxiv.org/pdf/1502.06757.pdf,4
+ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054861,sanity check,we believe .. based on [13],13,,https://arxiv.org/pdf/1502.06757.pdf,4
+ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054840,replication,LuSearch,11,10.1109/SANER.2015.7081874,,347
+ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054840,replication,Lucene,18,,http://lucene.apache.org/,347
+ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054840,replication,CodeHow,10,10.1109/ASE.2015.42,,347
+ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054840,replication,QECK,12,10.1109/TSC.2016.2560165,,347
+ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054840,replication,YeSearch,15,10.1145/2884781.2884862,,347
+ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054840,replication,Code-nn,16,https://doi.org/10.1145/3180155.3180167,,347
+ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054868,method,following previous work [41],41,https://doi.org/10.1145/3324916,,357
+ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054868,tool,Snowball Stemmer,39,,http://snowball.tartarus.org/texts/introduction.html,357
+ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054868,method,Word2Vec,31,,https://arxiv.org/abs/1301.3781,357
+ivbhatt,,,,,,,
