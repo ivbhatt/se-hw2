@@ -13,4 +13,16 @@ ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054840,replication,Code-nn,16,ht
 ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054868,method,following previous work [41],41,https://doi.org/10.1145/3324916,,357
 ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054868,tool,Snowball Stemmer,39,,http://snowball.tartarus.org/texts/introduction.html,357
 ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054868,method,Word2Vec,31,,https://arxiv.org/abs/1301.3781,357
-ivbhatt,,,,,,,
+ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054825,tool,Securify,6,https://dl.acm.org/doi/10.1145/3243734.3243780,,24
+ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054825,tool,Osiris,16,dl.acm.org/doi/10.1145/3274694.3274737,,24
+ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054825,tool,Mythril,17,,https://github.com/ConsenSys/mythril,24
+ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054825,tool,geth,30,,github.com/ethereum/go-ethereum,28
+ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054825,tool,Etherscan,31,,https://etherscan.io/,28
+ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054825,tool,Infura,34,,https://infura.io/,29
+ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054831,tool,Soot,8,,https://arxiv.org/abs/1205.3576,578
+ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054831,method,taint flow analysis,9,dl.acm.org/doi/10.1145/2614628.2614633,,578
+ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054831,tool,Flowdroid,10,https://doi.org/10.1145/2666356.2594299,,578
+ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054831,tool,DroidFax,11,10.1109/ICSME.2017.35,,578
+ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054831,dataset,AndroZoo,12,,https://arxiv.org/abs/1709.05281,578
+ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054800,metric,9 known patterns,8,https://doi.org/10.1109/SANER.2017.7884616,,83
+ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054822,,,,,,
