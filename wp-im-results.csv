@@ -25,4 +25,7 @@ ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054831,tool,Flowdroid,10,https:/
 ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054831,tool,DroidFax,11,10.1109/ICSME.2017.35,,578
 ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054831,dataset,AndroZoo,12,,https://arxiv.org/abs/1709.05281,578
 ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054800,metric,9 known patterns,8,https://doi.org/10.1109/SANER.2017.7884616,,83
-ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054822,,,,,,
+ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054822,tool,Slither,17,,https://github.com/crytic/slither,120
+ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054822,tool,remix-debugger,18,,https://remix.ethereum.org/,122
+ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054822,tool,Teether,13,,https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-krupp.pdf,124
+ivbhatt,http://doi.org/10.1109/SANER48275.2020.9054822,tool,MAIAN,14,https://doi.org/10.1145/3274694.3274743,,124
