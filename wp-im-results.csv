@@ -1,26 +1,26 @@
 gh_id, paper_doi, reuse_type, comment, citation_number, reused_doi, alt_url, page_num
-ivbhatt,https://doi.org/10.1109/SANER48275.2020.9054861,tool,ChangeMacroRecorder,19,http://doi.org/10.1109/saner48275.2020.9054861,,2
+ivbhatt,https://doi.org/10.1109/SANER48275.2020.9054861,tool,ChangeMacroRecorder,19,https://doi.org/10.1109/saner48275.2020.9054861,,2
 ivbhatt,https://doi.org/10.1109/SANER48275.2020.9054861,tool,Fluorite,20,,https://research.yyoon.net/papers/plateau11-yyoon-Fluorite.pdf,2
 ivbhatt,https://doi.org/10.1109/SANER48275.2020.9054861,method,history refactoring,21,10.1109/ICSM.2012.6405336,,3
 ivbhatt,https://doi.org/10.1109/SANER48275.2020.9054861,metric,They defined several metrics,13,,https://arxiv.org/pdf/1502.06757.pdf,4
 ivbhatt,https://doi.org/10.1109/SANER48275.2020.9054861,sanity check,we believe .. based on [13],13,,https://arxiv.org/pdf/1502.06757.pdf,4
 ivbhatt,https://doi.org/10.1109/SANER48275.2020.9054840,replication,LuSearch,11,10.1109/SANER.2015.7081874,,347
-ivbhatt,https://doi.org/10.1109/SANER48275.2020.9054840,replication,Lucene,18,,http://lucene.apache.org/,347
+ivbhatt,https://doi.org/10.1109/SANER48275.2020.9054840,replication,Lucene,18,,https://lucene.apache.org/,347
 ivbhatt,https://doi.org/10.1109/SANER48275.2020.9054840,replication,CodeHow,10,10.1109/ASE.2015.42,,347
 ivbhatt,https://doi.org/10.1109/SANER48275.2020.9054840,replication,QECK,12,10.1109/TSC.2016.2560165,,347
 ivbhatt,https://doi.org/10.1109/SANER48275.2020.9054840,replication,YeSearch,15,10.1145/2884781.2884862,,347
 ivbhatt,https://doi.org/10.1109/SANER48275.2020.9054840,replication,Code-nn,16,https://doi.org/10.1145/3180155.3180167,,347
 ivbhatt,https://doi.org/10.1109/SANER48275.2020.9054868,method,following previous work [41],41,https://doi.org/10.1145/3324916,,357
-ivbhatt,https://doi.org/10.1109/SANER48275.2020.9054868,tool,Snowball Stemmer,39,,http://snowball.tartarus.org/texts/introduction.html,357
+ivbhatt,https://doi.org/10.1109/SANER48275.2020.9054868,tool,Snowball Stemmer,39,,https://snowball.tartarus.org/texts/introduction.html,357
 ivbhatt,https://doi.org/10.1109/SANER48275.2020.9054868,method,Word2Vec,31,,https://arxiv.org/abs/1301.3781,357
 ivbhatt,https://doi.org/10.1109/SANER48275.2020.9054825,tool,Securify,6,https://dl.acm.org/doi/10.1145/3243734.3243780,,24
-ivbhatt,https://doi.org/10.1109/SANER48275.2020.9054825,tool,Osiris,16,dl.acm.org/doi/10.1145/3274694.3274737,,24
+ivbhatt,https://doi.org/10.1109/SANER48275.2020.9054825,tool,Osiris,16,10.1145/3274694.3274737,,24
 ivbhatt,https://doi.org/10.1109/SANER48275.2020.9054825,tool,Mythril,17,,https://github.com/ConsenSys/mythril,24
-ivbhatt,https://doi.org/10.1109/SANER48275.2020.9054825,tool,geth,30,,github.com/ethereum/go-ethereum,28
+ivbhatt,https://doi.org/10.1109/SANER48275.2020.9054825,tool,geth,30,,https://github.com/ethereum/go-ethereum,28
 ivbhatt,https://doi.org/10.1109/SANER48275.2020.9054825,tool,Etherscan,31,,https://etherscan.io/,28
 ivbhatt,https://doi.org/10.1109/SANER48275.2020.9054825,tool,Infura,34,,https://infura.io/,29
 ivbhatt,https://doi.org/10.1109/SANER48275.2020.9054831,tool,Soot,8,,https://arxiv.org/abs/1205.3576,578
-ivbhatt,https://doi.org/10.1109/SANER48275.2020.9054831,method,taint flow analysis,9,dl.acm.org/doi/10.1145/2614628.2614633,,578
+ivbhatt,https://doi.org/10.1109/SANER48275.2020.9054831,method,taint flow analysis,9,https://dl.acm.org/doi/10.1145/2614628.2614633,,578
 ivbhatt,https://doi.org/10.1109/SANER48275.2020.9054831,tool,Flowdroid,10,https://doi.org/10.1145/2666356.2594299,,578
 ivbhatt,https://doi.org/10.1109/SANER48275.2020.9054831,tool,DroidFax,11,10.1109/ICSME.2017.35,,578
 ivbhatt,https://doi.org/10.1109/SANER48275.2020.9054831,dataset,AndroZoo,12,,https://arxiv.org/abs/1709.05281,578
